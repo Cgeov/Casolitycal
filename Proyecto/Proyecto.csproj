@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E5EF691E-A44C-4E58-816B-365B9AB5933D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto</RootNamespace>
+    <AssemblyName>Proyecto</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Giovanni\Desktop\Instalador\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Proyecto.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>teamwork.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A46D90361A16C6FDF561E2B8009A09B998EC6CC3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Proyecto_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador.Designer.cs">
+      <DependentUpon>Administrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenida.Designer.cs">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="creditos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="creditos.Designer.cs">
+      <DependentUpon>creditos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD.cs" />
+    <Compile Include="JefeAreaFuncional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JefeAreaFuncional.Designer.cs">
+      <DependentUpon>JefeAreaFuncional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JefeDesarrollo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JefeDesarrollo.Designer.cs">
+      <DependentUpon>JefeDesarrollo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movimiento.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Programador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programador.Designer.cs">
+      <DependentUpon>Programador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tester.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tester.Designer.cs">
+      <DependentUpon>tester.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs" />
+    <Compile Include="Validaciones.cs" />
+    <EmbeddedResource Include="Administrador.resx">
+      <DependentUpon>Administrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bienvenida.resx">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="creditos.resx">
+      <DependentUpon>creditos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JefeAreaFuncional.resx">
+      <DependentUpon>JefeAreaFuncional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JefeDesarrollo.resx">
+      <DependentUpon>JefeDesarrollo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programador.resx">
+      <DependentUpon>Programador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="tester.resx">
+      <DependentUpon>tester.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Proyecto_TemporaryKey.pfx" />
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper-plane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5d36f4f28825e0e2a565fabd_img-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f2wuB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ojo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\udb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RBG-Wallpaper-Living-Colour-07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="teamwork.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,105 @@
+20/09/2020 Christian
+1) Creación de la BDD
+2) General:
+        -Realización de plantilla para todo el proyecto.
+3) Clases:
+        - Movimiento(Permite mover formularios ya que estos tienen formato tipo plat)
+        - Conexion
+        - CRUD(Tendra almacenadas la consultas)
+4) Formularios:
+        - Creación de form Login 
+        - Creación de form Administrador
+
+23/09/2020 Christian
+1) Validaciones con expresiones regulares a los formularios de login y administrador
+2) Diseño de la pantalla de inicio
+
+24/09/2020 Byron
+1) El sistema crea solicitudes y las guarda en la bdd con sus respectivos campos validados.
+
+25/09/2020 Christian
+1) El sistema contenia consultas SQL fuera de la clase CRUD (Solucionado)
+
+25/09/2020 David
+1)login:
+	- * en contraseña
+		-botón para ver contraseña
+	- presionar "enter" acceda
+2)Creación de la ventana creditos al dar click en la versión del programa
+3)Programador
+	-caso:
+		*El programador puede ver los datos generales del caso y actualizar el avance de este
+	-Bitacora:
+		*El programador busca mediante el idcaso las bitacoras (si no aparecen dar click en
+		actualizar)
+		*El programador puede crear la bitacora en caso de no existir
+		*El programador puede editar la descripción de la bitacora
+26/09/2020 David
+1)modificicación a la sección bitácora en programador
+
+
+1/10/2020 Byron
+
+1) Cambio en el diseño de solicitudes.
+2) Validacion de datetimepicker para no aceptar fechas antes de la actual
+
+
+4/10/2020 David
+Programador:
+1) No se puedan escribir bitácoras cuando se llega al 100%
+	-se notifica en la solicitud: "Esperando aprobación de área  solicitante"
+	-se menciona en bitácora: "Caso ya finalizado"
+
+2) No se puedan escribir bitácoras despues de la fecha limite
+	-se notifica en la solicitud: "Expirado"
+	-se menciona en bitácora: "Caso expirado"
+
+Jefe de funcionalidades:
+1)Mostrar la ventana en el centro de la pantalla
+
+
+4/10/2020 Christian
+Jefe de desarrollo:
+1) Realización del apartado de "Aceptar Solicitudes"
+   a) Genera un codigo a partir del departamento perteneciente, fecha de solicitud 
+      y 3 digitos aleatorios
+   b) El Jefe de desarrollo no puede procesar solicitudes que antes ya hayan sido procesadas
+   c) Validacion del datetimepicker para no aceptar fechas anteriores a la actual
+
+Administrador:
+2) Cambio de validación en el apartado "Departamento" para el usuario Administrador
+
+04/10/2020 Byron
+
+1) se hicieron las modificaiones solicitadas al form Jefe de áreas funcionales y algunas modificaciones de diseño
+para hacerlo más intuitivo
+2)Rechaza las solicitudes, permitiendo dar un argumento del porqué
+
+23/10/2020 Byron
+
+1) completo el punto 5 y 7
+Queda pendiente el punto 6, solo eso falta del proyecto y gg wp
+
+29/10/2020 Carlos López
+
+1) Se agregó una tabla catálogo "estados" en la base de datos con el detalle de todos los estados,
+se agregó la respectiva relación de la tabla "estados" con la tabla "solicitud".
+
+2) Completo el punto 6
+
+3) Se colocó acentos en las palabras, arreglo de detalles estéticos, se agregó íconos a los msgbox, 
+validación de campos, actualizar número de versión y fecha de desarrollo,
+se agregó acción para mostrar formulario de *acerca de* en todos los forms
+creados.
+
+14/11/20202
+Christian
+
+1)Creación del instalador
+
+
+--PROYECTO FINALIZADO.
+
+
+
+

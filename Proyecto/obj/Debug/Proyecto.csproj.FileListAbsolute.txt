@@ -1,0 +1,309 @@
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Giovanni\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.crearSolicitud.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.crearSolicitud.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.crearSolicitud.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\proyecto v1.24.20\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Giovanni\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\bin\Debug\Proyecto.exe.config
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\bin\Debug\Proyecto.exe
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\bin\Debug\Proyecto.pdb
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.exe
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Proyecto v1.26.20\Proyecto\bin\Debug\Proyecto.pdb
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.exe
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.pdb
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\bin\Debug\Proyecto.exe.config
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\bin\Debug\Proyecto.exe
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\bin\Debug\Proyecto.pdb
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\UDB\2020\ciclo 2\POO\actividades\proyecto de cátedra-parte 2\Proyecto v1.26.21\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Giovanni\Desktop\Proyecto v1.26.22\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Visual\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.01\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\carlo\Desktop\Carlos\UDB\ASIGNATURAS\POO 1 C#\Práctica\Proyecto Cátedra\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Giovanni\Desktop\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Bamhm\Desktop\Universidad\ciclo02\POO\Proyecto\Esta shet\Proyecto v1.30.03\Proyecto\obj\Debug\Proyecto.tester.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.tester.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\carlo\Desktop\Proyecto v1.30.04\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.tester.resources
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\carlo\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.tester.resources
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe.manifest
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.application
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.exe.manifest
+C:\Users\Giovanni\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.application
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.tester.resources
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe.manifest
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.application
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.exe.manifest
+C:\Users\Giovanni\Pictures\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.application
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe.manifest
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.application
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Administrador.resources
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Bienvenida.resources
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.creditos.resources
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.JefeAreaFuncional.resources
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.JefeDesarrollo.resources
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Login.resources
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Programador.resources
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.tester.resources
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.exe.manifest
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.application
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Admin\Desktop\Proyecto v1.30.05\Proyecto\obj\Debug\Proyecto.pdb
